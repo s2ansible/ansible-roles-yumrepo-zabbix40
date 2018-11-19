@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: yumrepo_zabbix40
   author: youyo
+  company: heptagon inc.
   description: setup zabbix yum repository
   license: MIT
   min_ansible_version: 2.4
